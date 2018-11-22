@@ -1,9 +1,9 @@
 {
-	"name": "GMSteuart/cakephp-bz-utils",
+	"name": "burzum/cakephp-bz-utils",
 	"type": "cakephp-plugin",
 	"description": "Tool collection for CakePHP",
 	"keywords": ["rbac", "helper", "view", "component", "table", "log"],
-	"homepage": "http://github.com/GMSteuart/cakephp-bz-utils",
+	"homepage": "http://github.com/burzum/cakephp-bz-utils",
 	"license": "MIT",
 	"authors": [
 		{
