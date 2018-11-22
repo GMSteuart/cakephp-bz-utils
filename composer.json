@@ -1,5 +1,5 @@
 {
-	"name": "burzum/cakephp-bz-utils",
+	"name": "gmsteuart/cakephp-bz-utils",
 	"type": "cakephp-plugin",
 	"description": "Tool collection for CakePHP",
 	"keywords": ["rbac", "helper", "view", "component", "table", "log"],

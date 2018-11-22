@@ -1,5 +1,6 @@
 <?php
 App::uses('BaseAuthenticate', 'Controller/Component/Auth');
+require_once(ROOT . DS . 'vendor' . DS . 'firebase' . DS . 'php-jwt' . DS . 'src' . DS . 'JWT.php');
 
 /**
  * An authentication adapter for AuthComponent.  Provides the ability to authenticate using Token
